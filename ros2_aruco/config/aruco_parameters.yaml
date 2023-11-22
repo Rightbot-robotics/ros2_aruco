@@ -1,6 +1,6 @@
 /aruco_node:
   ros__parameters:
-    marker_size: 0.187
-    aruco_dictionary_id: DICT_5X5_250
+    marker_size: 0.189
+    aruco_dictionary_id: DICT_7X7_1000
     image_topic: /l515_right_camera/color/image_unclipped_raw
     camera_info_topic: /l515_right_camera/color/camera_info
